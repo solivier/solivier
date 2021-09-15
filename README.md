@@ -1,4 +1,6 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+I'm Olivier, a passionate software engineer. Interested about #Golang, #Php, #DDD, #TDD, Code Quality ....
+
 This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 &nbsp;I’m currently working at [Dacast](https://www.dacast.com)
