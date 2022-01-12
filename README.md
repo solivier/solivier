@@ -3,7 +3,7 @@ I'm Olivier, a passionate software engineer. Interested about #Golang, #Php, #DD
 
 This is the place where I opensource stuff and break things :rofl:
 
-- 🔭 &nbsp;I’m currently working at [Dacast](https://www.dacast.com)
+- 🔭 &nbsp;I’m currently working at [Amazon](https://www.amazon.com)
 - 🌱 &nbsp;I’m currently learning **React**
 - 💬 &nbsp;I’m proud founder of [Badger](https://github.com/the-badger/badger)
 - 📫 &nbsp;I’m looking for collaboration on [Badger](https://github.com/the-badger/badger)
